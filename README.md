@@ -1,27 +1,76 @@
-# ProjectClientWebdriver
+# Nutriserve
 
-This project was generated with [Angular CLI](https://github.com/angular/angular-cli) version 17.2.3.
+## Assignment Name: Project Phase 4 - Project Angular Part 2
 
-## Development server
+## Team Name:
+* WebDriver
 
-Run `ng serve` for a dev server. Navigate to `http://localhost:4200/`. The application will automatically reload if you change any of the source files.
+## Team Members:
+* Saurabh Prashar
+* Chandrika Venu Killada
+* Siddhesh Satish Nikam
 
-## Code scaffolding
+## Deployed Link:
+[https://nutriserve-client.vercel.app/](https://nutriserve-client.vercel.app/)
+   
+## Description
 
-Run `ng generate component component-name` to generate a new component. You can also use `ng generate directive|pipe|service|class|guard|interface|enum|module`.
+Nutriserve is the place to order your healthy meal kits, tailored to your tastes and nutritional needs. The meal kit is delivered right to your home. Customers can join the subscription to get meal kits delivered to them every week, as per their member needs. Menu updated weekly with signature and vegetarian menu options to choose from and the first week of the subscription is free!
 
-## Build
+## Project Features
+- [x] Project uses Express API as backend to fetch data from MongoDB.
+- [x] It allows user to register or login and look for different meal plans.
+- [x] User can select recipes and view details and add to cart.
+- [x] User can also search through all the meals and also through different categories and using particular ingredients.
+- [x] User can also look see how the delivery work.
+- [x] There is also a wishlist feature, where user can save the meals for future.
 
-Run `ng build` to build the project. The build artifacts will be stored in the `dist/` directory.
+## Saurabh's Completed Tasks
 
-## Running unit tests
+- [x] Create APIs and authentication for the app consumption.
+- [x] Worked on home page, about us and login.
 
-Run `ng test` to execute the unit tests via [Karma](https://karma-runner.github.io).
+## Chandrika's Completed Task
 
-## Running end-to-end tests
+- [x] Create APIs and authentication for the app consumption.
+- [x] Worked on How it works and meals page.
 
-Run `ng e2e` to execute the end-to-end tests via a platform of your choice. To use this command, you need to first add a package that implements end-to-end testing capabilities.
+## Siddhesh's Completed Task
 
-## Further help
+- [x] Create APIs and authentication for the app consumption.
+- [x] Worked on blog and contact.
 
-To get more help on the Angular CLI use `ng help` or go check out the [Angular CLI Overview and Command Reference](https://angular.io/cli) page.
+## Angular Components
+
+### ContactUs Component
+
+Allows users to contact Nutriserve for any queries or support.
+
+### AboutUs Component
+
+Provides information about Nutriserve and its mission.
+
+### Meals Component
+
+Displays a list of available meals with details.
+
+### BlogPage Component
+
+Shows the latest blog posts related to nutrition and healthy eating.
+
+### PricingCard Component
+
+Displays different pricing plans with details.
+
+### HowItWorks Component
+
+Explains how Nutriserve works in simple steps.
+
+### Benefits Component
+
+Highlights the benefits of using Nutriserve.
+
+### Faq Component
+
+Answers frequently asked questions about Nutriserve.
+
